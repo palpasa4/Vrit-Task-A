@@ -25,4 +25,6 @@ In the vertical carousel, the previous and next items leave empty spaces at the 
 Future updates will aim to address this spacing issue for a more seamless user experience.
 
 # Demo:
-https://github.com/user-attachments/assets/1c3cd90c-9571-4a21-9b23-e7e8466e7111
+https://github.com/user-attachments/assets/568071b3-f282-4f26-a057-be209058643d
+
+
